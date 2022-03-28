@@ -13,4 +13,4 @@ https://chrismanfredijr.github.io/run-buddy/
 ## Contribution
 Made with ❤️ by Chris Manfredi
 
-# Run Buddy Inc.
+### ©️2019 Run Buddy, Inc 
